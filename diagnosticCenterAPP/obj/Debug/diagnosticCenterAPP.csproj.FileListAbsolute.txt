@@ -1,0 +1,42 @@
+C:\Users\Evan\Desktop\project\diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.dll.config
+C:\Users\Evan\Desktop\project\diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.dll
+C:\Users\Evan\Desktop\project\diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.pdb
+C:\Users\Evan\Desktop\project\diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Desktop\project\diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.dll
+C:\Users\Evan\Desktop\project\diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.pdb
+I:\diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.dll.config
+I:\diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.dll
+I:\diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.pdb
+I:\diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.csprojResolveAssemblyReference.cache
+I:\diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.dll
+I:\diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.pdb
+J:\diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.dll.config
+J:\diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.dll
+J:\diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.pdb
+J:\diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.csprojResolveAssemblyReference.cache
+J:\diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.dll
+J:\diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.pdb
+J:\ \diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.dll.config
+J:\ \diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.dll
+J:\ \diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.pdb
+J:\ \diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.dll
+J:\ \diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.pdb
+I:\ \diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.dll.config
+I:\ \diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.dll
+I:\ \diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.pdb
+I:\ \diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.csprojResolveAssemblyReference.cache
+I:\ \diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.dll
+I:\ \diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.pdb
+G:\ \diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.dll.config
+G:\ \diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.dll
+G:\ \diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.pdb
+G:\ \diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.csprojResolveAssemblyReference.cache
+G:\ \diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.dll
+G:\ \diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.pdb
+J:\ \diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.csprojResolveAssemblyReference.cache
+D:\All projects\All projects\diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.dll.config
+D:\All projects\All projects\diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.dll
+D:\All projects\All projects\diagnosticCenterAPP\diagnosticCenterAPP\bin\diagnosticCenterAPP.pdb
+D:\All projects\All projects\diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.csprojResolveAssemblyReference.cache
+D:\All projects\All projects\diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.dll
+D:\All projects\All projects\diagnosticCenterAPP\diagnosticCenterAPP\obj\Debug\diagnosticCenterAPP.pdb
